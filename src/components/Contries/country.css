@@ -1,0 +1,10 @@
+.box{
+    border:1px solid tomato;
+    padding: 15px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.bgColor{
+    background-color: blueviolet;
+}

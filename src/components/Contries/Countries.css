@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+    gap : 10px;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 10px;
+}
+
+.imgWide{
+    width: 100px;
+    margin-right:10px;
+}
